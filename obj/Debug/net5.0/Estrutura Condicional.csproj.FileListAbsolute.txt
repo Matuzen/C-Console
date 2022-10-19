@@ -1,0 +1,16 @@
+E:\#Meus Projetos\C# Com Console\Estrutura Condicional\bin\Debug\net5.0\Estrutura Condicional.exe
+E:\#Meus Projetos\C# Com Console\Estrutura Condicional\bin\Debug\net5.0\Estrutura Condicional.deps.json
+E:\#Meus Projetos\C# Com Console\Estrutura Condicional\bin\Debug\net5.0\Estrutura Condicional.runtimeconfig.json
+E:\#Meus Projetos\C# Com Console\Estrutura Condicional\bin\Debug\net5.0\Estrutura Condicional.runtimeconfig.dev.json
+E:\#Meus Projetos\C# Com Console\Estrutura Condicional\bin\Debug\net5.0\Estrutura Condicional.dll
+E:\#Meus Projetos\C# Com Console\Estrutura Condicional\bin\Debug\net5.0\ref\Estrutura Condicional.dll
+E:\#Meus Projetos\C# Com Console\Estrutura Condicional\bin\Debug\net5.0\Estrutura Condicional.pdb
+E:\#Meus Projetos\C# Com Console\Estrutura Condicional\obj\Debug\net5.0\Estrutura Condicional.csproj.AssemblyReference.cache
+E:\#Meus Projetos\C# Com Console\Estrutura Condicional\obj\Debug\net5.0\Estrutura Condicional.GeneratedMSBuildEditorConfig.editorconfig
+E:\#Meus Projetos\C# Com Console\Estrutura Condicional\obj\Debug\net5.0\Estrutura Condicional.AssemblyInfoInputs.cache
+E:\#Meus Projetos\C# Com Console\Estrutura Condicional\obj\Debug\net5.0\Estrutura Condicional.AssemblyInfo.cs
+E:\#Meus Projetos\C# Com Console\Estrutura Condicional\obj\Debug\net5.0\Estrutura Condicional.csproj.CoreCompileInputs.cache
+E:\#Meus Projetos\C# Com Console\Estrutura Condicional\obj\Debug\net5.0\Estrutura Condicional.dll
+E:\#Meus Projetos\C# Com Console\Estrutura Condicional\obj\Debug\net5.0\ref\Estrutura Condicional.dll
+E:\#Meus Projetos\C# Com Console\Estrutura Condicional\obj\Debug\net5.0\Estrutura Condicional.pdb
+E:\#Meus Projetos\C# Com Console\Estrutura Condicional\obj\Debug\net5.0\Estrutura Condicional.genruntimeconfig.cache
