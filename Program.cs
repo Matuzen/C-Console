@@ -47,6 +47,8 @@ namespace Estrutura_Condicional
             string b = v[1];
             string c = v[2];
 
+            // (Só para salvar uma nova versão no github)
+
             Console.ReadLine();
             Console.WriteLine(a);
             Console.WriteLine(b);
